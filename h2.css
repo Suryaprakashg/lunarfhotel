@@ -1,0 +1,25 @@
+body{
+
+    width:80%;
+    margin:auto;
+    background-image: url("images/edit2.jpg");
+    font-family:century gothic;
+    font-weight:bold italic;
+    font-size: 20px;
+    
+}
+.form d
+{
+    padding:10px;;
+}
+.form label{
+    
+    padding:10px;
+    display:block;
+    font-weight:bold italic;
+    font-size:30px;
+}
+.form input[type="text"],.form[type="textarea"],.form[type="email"],.form[type="password"],.form[type="textarea"]
+{
+    width:80%;
+}
